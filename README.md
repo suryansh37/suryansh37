@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Suryansh Khandelwal a 2nd year student at MIT ADT UNIVERSITY pursuing B.Tech CSE.
-- 👀 I code in Python, C/C++ and MySQL 
-- 🌱 I’m currently learning Kotlin for Android Development. 
+- 👋 Hi, I’m Suryansh Khandelwal a 3rd year student at MIT ADT UNIVERSITY pursuing B.Tech CSE with specialisation in Artificial Intelligence and Analytics.
+- 👀 I know languages like - Java, Python, C/C++ and MySQL
+- 🌱 I’m currently practising DSA in Cpp. 
 - 📫 You can reach me at: 
      LinkedIn:https://www.linkedin.com/in/suryansh-khandelwal-0b658b225
      
